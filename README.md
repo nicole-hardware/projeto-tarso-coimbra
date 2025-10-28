@@ -32,7 +32,7 @@ Acreditamos que a tecnologia é uma importante aliada na educação inclusiva. C
 
 ## Equipe
 
-* [Aline Maria Miranda]
-* [Josiane]
-* [João Augusto]
-* [Nicole C. Santos]
+* Aline Maria de Miranda Pereira
+* Josiane de Fátima Bueno
+* João Augusto Batista Pereira
+* Nicole C. Santos
