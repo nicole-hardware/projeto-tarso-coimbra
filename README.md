@@ -1,7 +1,7 @@
 
 # Projeto de Jogo Educativo Acessível
 
-Página web com jogos interativos para auxiliar no aprendizado da língua portuguesa escrita, com foco em estudantes com deficiência auditiva e surdez do Centro Municipal Dr. Tarso de Coimbra.
+Página web com jogos interativos para auxiliar no aprendizado da língua portuguesa escrita, com foco em estudantes com deficiência auditiva e surdez do Centro Municipal de Atendimento Educacional Especializado Dr. Tarso de Coimbra
 
 ## Objetivo
 
@@ -24,15 +24,4 @@ Acreditamos que a tecnologia é uma importante aliada na educação inclusiva. C
 * HTML5
 * CSS3
 * JavaScript
-
-## Como Executar o Projeto
-
-1. Clone este repositório: `git clone [URL_DO_SEU_REPOSITORIO]`
-2. Abra o arquivo `index.html` em seu navegador.
-
-## Equipe
-
-* Aline Maria de Miranda Pereira
-* Josiane de Fátima Bueno
-* João Augusto Batista Pereira
-* Nicole C. Santos
+* Figma
