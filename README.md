@@ -25,3 +25,8 @@ Acreditamos que a tecnologia é uma importante aliada na educação inclusiva. C
 * CSS3
 * JavaScript
 * Figma
+
+## Como Executar o Projeto
+
+1. Clone este repositório: `git clone [URL_DO_SEU_REPOSITORIO]`
+2. Abra o arquivo `index.html` em seu navegador.
