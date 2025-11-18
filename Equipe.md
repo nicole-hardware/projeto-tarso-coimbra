@@ -1,8 +1,7 @@
 ### Divisão de responsabilidades
 
-- **Aline**: desenvolvimento do **Frontend**.  
-- **João Augusto**: implementação do **Backend**.  
-- **Nicole**: elaboração da **documentação técnica**.  
-- **Josiane**: **gerenciamento do projeto**.  
+- **Aline**: desenvolvimento do **Frontend** e **backend**.    
+- **Nicole**: desenvolvimento do **Frontend** e **backend**. 
+- **Josiane**: **documentação técnica**.  
 
 Todos os integrantes irão colaborar e se ajudar ao longo do desenvolvimento do trabalho.
